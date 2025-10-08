@@ -1,4 +1,4 @@
-paso para ejecutar el generador de contraseñas:
+pasos para ejecutar el generador de contraseñas:
 paso 1: descarga el archivo.js
 
 paso 2: escribe en la terminal "node generador"
