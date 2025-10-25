@@ -1,3 +1,5 @@
+(tienes que tener node.js instalado)
+
 pasos para ejecutar el generador de contraseñas:
 
 paso 1: descarga el archivo.js
